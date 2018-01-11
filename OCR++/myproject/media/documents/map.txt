@@ -1,0 +1,18 @@
+<email_author>
+	<map>
+		Ben Trovato 
+		trovato@corporation.com
+	</map>
+	<map>
+		Lawrence P. Leipuner 
+		lleipuner@researchlabs.org
+	</map>
+	<map>
+		Sean Fogarty 
+		fogartys@amesres.org
+	</map>
+	<map>
+		Charles Palmer 
+		cpalmer@prl.com
+	</map>
+</email_author>
